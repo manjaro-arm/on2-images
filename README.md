@@ -1,5 +1,5 @@
-# Manjaro ARM Odroid N2
-[![iso_build](https://github.com/manjaro-arm/on2-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/on2-images/actions)
+# Manjaro ARM Odroid N2/N2+
+[![iso_build](https://github.com/manjaro-arm/on2-images/workflows/image_build_all/badge.svg)](https://github.com/manjaro-arm/on2-images/actions)
 
 ## description
 
